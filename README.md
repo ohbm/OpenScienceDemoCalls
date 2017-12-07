@@ -6,7 +6,7 @@ A collection of resources for the Open Science Demo Calls
 
 Last Thursday of the month at **7pm GMT**
 
-* First call: Thursday 22nd January 2018 
+* First call: Thursday 25th January 2018 
 
 ### Where
 
