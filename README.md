@@ -10,12 +10,14 @@ Demo calls are also a great chance to find out about tools (both old and new) yo
 
 ### When do they take place?
 
-Demo calls happen on the last Thursday of the month at 7pm GMT.
+Demo calls happen (usually) on the last Thursday of the month at 7pm GMT.
 
-* First call: [Thursday 25th January 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180125T190000&p1=tz_gmt). 
+* First call: [Thursday 1st February 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180201T190000&p1=tz_gmt). 
+  * Note that this call is a week late because [Kirstie](https://github.com/kirstiejane), our host, has concert tickets on the last Thursday of January :grimacing:
 
 ### Where can I find them?
 
-The calls will be livestreamed on YouTube from the [OHBM OpenScience Channel]().
+The calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ).
+
 All recordings will be archived on the channel for easy access.
 
