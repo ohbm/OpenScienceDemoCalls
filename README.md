@@ -4,9 +4,9 @@ A collection of resources for the OHBM Open Science Demo Calls.
 
 ### What are Demo Calls?
 
-Demo calls are a chance to hear from the developers of open science tools&mdash; resources you may use (or want to use), but haven't heard the story behind. Why did a developer make a tool, and make it openly available? What was their process for creating it? How do they see it being used? How do they hope it will grow in the future?
+Demo calls are a chance to hear from the developers of open neuroimaging tools: resources you may use (or want to use), but don't know much about. Why did a developer make a tool, and make it openly available? What was their process for creating it? How do they see it being used? How do they hope it will grow in the future? How can **you** get involved?
 
-Demo calls are also a great chance to find out about tools (both old and new) you may not have heard of yet. The open neuroimaging community is great and growing. Demo calls are a chance to check in once a month and hear about the people who make this community every day. 
+Demo calls are a great chance to find out about tools and initiatives (both old and new) you may not have heard of yet. The open neuroimaging community is great and growing every day. We'll use these calls to build connections between all members of the OHBM Open Science community and to tell the stories of the people making outstanding and reproducible neuroscience happen.
 
 ### When do they take place?
 
@@ -21,3 +21,10 @@ The calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](ht
 
 All recordings will be archived on the channel for easy access.
 
+### How do I stay in touch?
+
+Please join our OHBM Open Science SIG mailing list :construction: ***Not sure where to host this! All comments welcome***
+
+### How do I appear on a future demo call?
+
+To nominate yourself, or someone else, to speak on a future demo call, please comment at this [Guest Suggestions issue](https://github.com/ohbm/OpenScienceDemoCalls/issues/7) or send an email to Kirstie Whitaker at [kw401@cam.ac.uk](mailto:kw401@cam.ac.uk).
