@@ -1,6 +1,6 @@
 # Open Science Demo Calls
 
-A collection of resources for the OHBM Open Science Demo Calls.
+*A monthly [google hangout](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) to show off some of the fantastic projects built by members of the OHBM Open Science community*.
 
 ### What are Demo Calls?
 
@@ -23,7 +23,7 @@ All recordings will be archived on the channel for easy access.
 
 ### How do I stay in touch?
 
-Please join our OHBM Open Science SIG mailing list :construction: ***Not sure where to host this! All comments welcome***
+Please join our OHBM Open Science SIG mailing list :construction: ***Not sure where to host this! All comments welcome*** :construction:
 
 ### How do I appear on a future demo call?
 
