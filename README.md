@@ -24,7 +24,7 @@ All recordings will be archived on the channel for easy access.
 
 ### How do I stay in touch?
 
-Please join our OHBM Open Science SIG mailing list :construction: ***Not sure where to host this! All comments welcome*** :construction:
+Please join the [OSSIG google group](https://groups.google.com/forum/?nomobile=true#!forum/open-hbm-notices) to receive reminders each month!
 
 ### How do I appear on a future demo call?
 
