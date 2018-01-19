@@ -2,9 +2,9 @@
 
 **New! Open Science demo calls**
 
-The OHBM Open Science Special Interest Group (OSSIG) invites you to participate in monthly Open Science Demo Calls!  These calls allow you to hear from the developers of open neuroimaging tools as well as discuss resources you may use (or want to use) but don't know much about. These calls are a great chance to find out about tools and initiatives (both old and new) you may not have heard of yet.
+The OHBM Open Science Special Interest Group (OSSIG) invites you to participate in monthly Open Science Demo Calls!  These calls connect with developers of open neuroimaging tools to discuss tools and initiatives you may have heard of, but don't know much about.
 
-You can explore questions such as "Why did a developer make a tool and make it openly available?"; "What was their process for creating it?"; "How do they see it being used?",  "How do they hope it will grow in the future?" and "How can you get involved?"
+This series will explore questions such as "Why did a developer make a tool and make it openly available?"; "What was their process for creating it?"; and "How can new contributors get involved?"
 
 The open neuroimaging community is great and growing every day. We will use these calls to build connections between all members of the OHBM Open Science community and to tell the stories of the people making outstanding and reproducible neuroscience happen.
 
