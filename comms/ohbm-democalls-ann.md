@@ -14,6 +14,6 @@ The first call will feature Guiomar Niso on [MEG-BIDS](https://www.biorxiv.org/c
 
 The Open Science Demo Calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ), and all recordings will be archived on the channel and on the [OHBM blog](https://www.ohbmbrainmappingblog.com/) for easy access.
 
-You can find out more information at https://github.com/ohbm/OpenScienceDemoCalls or join the [OSSIG google group](https://groups.google.com/forum/open-hbm-notices) to receive reminders each month.
+You can find out more information at https://github.com/ohbm/OpenScienceDemoCalls or join the [OSSIG google group](https://groups.google.com/forum/?nomobile=true#!forum/open-hbm-notices) to receive reminders each month.
 
 Contact Kirstie Whitaker, 2019 Chair of the OHBM Open Science SIG at kw401@cam.ac.uk if you have any questions.
