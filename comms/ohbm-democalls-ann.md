@@ -10,7 +10,9 @@ The open neuroimaging community is great and growing every day. We will use thes
 
 **MARK YOUR CALENDAR** FOR Thursday 1st February 2018, 7pm GMT and participate in the Open Science Demo Call.
 
-The Open Science Demo Calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ), and all recordings will be archived on the channel for easy access.
+The first call will feature Guilomar Niso on [MEG-BIDS](https://www.biorxiv.org/content/early/2017/08/08/172684), Alejandro de la Vega on [NeuroScout](https://github.com/PsychoinformaticsLab/neuroscout), and Cameron Craddock on [Brainhack Global 2018](http://www.brainhack.org/).
+
+The Open Science Demo Calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ), and all recordings will be archived on the channel and on the OHBM blog for easy access.
 
 You can find out more information at https://github.com/ohbm/OpenScienceDemoCalls
 
