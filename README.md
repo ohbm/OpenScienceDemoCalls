@@ -26,6 +26,8 @@ All recordings will be archived on the channel for easy access.
 
 Please join the [OSSIG google group](https://groups.google.com/forum/?nomobile=true#!forum/open-hbm-notices) to receive reminders each month!
 
+You can also add the [OSSIG google calendar](https://calendar.google.com/calendar/embed?src=open.hbm%40gmail.com) to your own calendar to remind you when events are happening. Here's the iCal link: https://calendar.google.com/calendar/ical/open.hbm%40gmail.com/public/basic.ics and here's a [helpful how to guide](https://www.lifewire.com/how-to-import-ics-calendar-files-in-ical-1172177).
+
 ### How do I appear on a future demo call?
 
 To nominate yourself, or someone else, to speak on a future demo call, please comment at this [Guest Suggestions issue](https://github.com/ohbm/OpenScienceDemoCalls/issues/7) or send an email to Kirstie Whitaker at [kw401@cam.ac.uk](mailto:kw401@cam.ac.uk).
