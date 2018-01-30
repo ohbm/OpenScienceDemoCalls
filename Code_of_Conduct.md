@@ -1,3 +1,4 @@
+# Code of Conduct
 
 In the interest of fostering an open and welcoming environment in the OHBM Open
 Science Demo Calls, we want participation in our project and our community to be
