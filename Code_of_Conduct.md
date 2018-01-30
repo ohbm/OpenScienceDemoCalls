@@ -49,12 +49,11 @@ and in public spaces when an individual is representing the project or its commu
 Examples of representing a project or community include using an official project e-mail
 address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
-Representation of a project may be further defined and clarified by project maintainers.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS].
+reported by contacting Kirstie Whitaker at kw401@cam.ac.uk or Elizabeth DuPre at elizabeth.dupre@mail.mcgill.ca.
 Confidentiality will be respected in reporting.
 
 ## Attribution
