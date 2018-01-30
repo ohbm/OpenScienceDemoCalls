@@ -19,9 +19,9 @@ The Open Science demo call will start at **7pm GMT** and finish at 7:30pm GMT. W
 
 There will only be four of us on the call: your host [Kirstie Whitaker](https://github.com/KirstieJane), two other guests, and yourself. We'll connect via [Google Hangouts](https://hangouts.google.com/) so please make sure you have a google account and that you're using a browser compatible with hangouts (at time of writing, [Firefox does not support Google Hangouts](https://gsuiteupdates.googleblog.com/2017/02/google-hangouts-temporary-issues-with-firefox.html?m=1) but Chrome (unsurprisingly) does).
 
-The call will be [live streamed on YouTube](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ). People watching will be able to ask questions at the OHBM Open Science channel and we can answer them either verbally during the call or as replies via the live chat. In an ideal situation we'll have more questions than we can address in the call, so please feel free to answer questions about your project while the other guests are being interviewed.
+The call will be [live streamed on YouTube](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ). People watching will be able to ask questions at the OHBM Open Science channel and we can answer them either verbally during the call or as replies via the live chat. In an ideal situation we'll have more questions than we can address in the call, so please feel free to answer questions about your project via the live chat while the other guests are being interviewed.
 
-During the call Kirstie will ask you a few questions about your project. They're described in more detail below, but the most important point is to stay high level, personal and fun. We'd like these demo calls to show off the **people** behind the projects, and to tell some of the stories that are difficult to learn from git commit messages alone.
+During the call Kirstie will ask you a few questions about your project. They're described in more detail below, but the most important point is to stay high level, personal and fun. We'd like these demo calls to focus on you (and your team) as the **people** behind the projects, and to tell some of the stories that are difficult to learn from git commit messages alone.
 
 The video will be archived on YouTube and we will post a copy to the [OHBM blog](https://www.ohbmbrainmappingblog.com/) along  with a few links and details about your project.
 
@@ -48,6 +48,7 @@ If there are any questions you'd particularly like the host to ask, please let h
 After the call we will archive the YouTube video on the [OHBM blog](https://www.ohbmbrainmappingblog.com/). In advance of the call please complete [this google form](https://goo.gl/forms/3foIuNP9G7kmCW193) with the following information:
 
 * Your name
+* A link to more information about you
 * Name of the project
 * Project website(s)
 * 1 sentence about the project
@@ -78,6 +79,8 @@ The additional guests can either be in the same place as you (and therefore conn
 Google Hangouts does not allow more than 10 people to join a call at one time, which is why our audience will mostly be watching on YouTube and asking questions via live chat. You'll be there the whole time, so ***please join in to ask questions of your fellow guests***. You do not need to sit silently and watch Kirstie chat with each guest in turn! You're very welcome to ask your own questions :smiley:
 
 Although Kirstie will try to monitor the live chat, it would also be very helpful if the guests who are not currently being interviewed could monitor the chat and verbalise those questions on the hangout. You don't have to, but multi-tasking is sometimes a tough job and any assistance will be greatly appreciated.
+
+Note that it is not your job to moderate the chat. The host of the call is responsible for finding a buddy who will monitor the live chat and hide any comments that violate our code of conduct.
 
 ### After the call
 
