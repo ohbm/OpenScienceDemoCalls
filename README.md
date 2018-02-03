@@ -12,9 +12,9 @@ Demo calls are a great chance to find out about tools and initiatives (both old 
 
 Demo calls happen (usually) on the last Thursday of the month at 7pm GMT.
 
-* First call: [Thursday 1st February 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180201T190000&p1=tz_gmt). 
-  * Note that this call is a week late because [Kirstie](https://github.com/kirstiejane), our host, has concert tickets on the last Thursday of January :grimacing:
-* Second call: [Thursday 22nd February 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180222T190000&p1=tz_gmt). 
+* First call: Thursday 1st February 2018, 7pm GMT.
+  * [Watch again on YouTube](https://www.youtube.com/watch?v=Qo-bFqMUbLo) and check out our supplementary [video with Guiomar](https://www.youtube.com/watch?v=VyTPIuzqdU4) which we recorded after some technical challenges during the main call.
+* Second call: [Thursday 22nd February 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180222T190000&p1=tz_gmt).
 
 ### Where can I find them?
 
