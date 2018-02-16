@@ -10,9 +10,10 @@ This guide should talk you through what you need to know to prepare for the call
 
 ---
 
-***tl;dr: join the google hangout 5 mins early, complete [this google form](https://goo.gl/forms/3foIuNP9G7kmCW193) in advance & have fun*** :sparkles:
+***tl;dr: [test your google hangout connection](#test-your-google-hangouts-connection) in advance, complete [this google form](https://goo.gl/forms/3foIuNP9G7kmCW193) in advance, join the google hangout 5 mins early & have fun*** :sparkles:
 
 ---
+
 ### What to expect
 
 The Open Science demo call will start at **7pm GMT** and finish at 7:30pm GMT. We're aiming for a short but sweet taster of your project and aim to "always leave them wanting more" :wink:
@@ -27,6 +28,14 @@ The video will be archived on YouTube and we will post a copy to the [OHBM blog]
 
 ### Before the call
 
+#### Test your google hangouts connection
+
+This is a little bit of a hassle, but it is not uncommon for people to have some technical challenges connecting and being heard on the google hangouts call. Please coordinate with the host to test your connection **on the computer you're going to use for the call** in advance of the call.
+
+You'll receive a a google calendar invite in advance of the call with the specific hangouts link you'll need to join for the call. You can either try connecting through that link with your host, or simply creating your own hangout and test with a friend or family member to ensure your setup works.
+
+Smart phones with the hangouts app installed are a good backup so we recommend having one with you when you join the call if you can.
+
 #### Questions on the call
 
 During the call, your host will ask some combinations of the following questions:
@@ -36,6 +45,7 @@ During the call, your host will ask some combinations of the following questions
 * Project website(s)
 * What problem is your project trying to solve?
 * How did you get started with the project?
+* Who else is working on the project? Does it link up with any other open projects?
 * What is fun about the project?
 * How can someone get involved? What do you need help with?
 
@@ -49,6 +59,7 @@ After the call we will archive the YouTube video on the [OHBM blog](https://www.
 
 * Your name
 * A link to more information about you
+* A picture of you
 * Name of the project
 * Project website(s)
 * 1 sentence about the project
@@ -66,7 +77,7 @@ The call will start with a brief welcome, and then we'll jump into the conversat
 
 It's very easy to share your screen from within Google Hangouts, and this might be a really great way to orient our viewers to your project. You could navigate to the project webpage, or showcase an example.
 
-You do not need to prepare a presentation for this call. In fact, we'd prefer that you didn't! It will be much more fun to see your face when you're describing the project. We're confident that you know an awful lot about it and don't need the slides. However, if there are some images that would particularly help to describe your project goals to our audience, then feel free to have them ready to share on your screen.
+You do not need to prepare a presentation for this call. In fact, we'd prefer that you didn't! It will be much more fun to see your face when you're describing the project. We're confident that you know an awful lot about it and don't need the slides. However, if there are some images or information on a website that would particularly help to describe your project goals to our audience, then feel free to have them ready to share on your screen.
 
 #### Additional guests
 
