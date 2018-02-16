@@ -10,9 +10,10 @@ This guide should talk you through what you need to know to prepare for the call
 
 ---
 
-***tl;dr: test your google hangout connection in advance, complete [this google form](https://goo.gl/forms/3foIuNP9G7kmCW193) in advance, join the google hangout 5 mins early & have fun*** :sparkles:
+***tl;dr: [test your google hangout connection](#test-your-google-hangouts-connection) in advance, complete [this google form](https://goo.gl/forms/3foIuNP9G7kmCW193) in advance, join the google hangout 5 mins early & have fun*** :sparkles:
 
 ---
+
 ### What to expect
 
 The Open Science demo call will start at **7pm GMT** and finish at 7:30pm GMT. We're aiming for a short but sweet taster of your project and aim to "always leave them wanting more" :wink:
@@ -30,6 +31,8 @@ The video will be archived on YouTube and we will post a copy to the [OHBM blog]
 #### Test your google hangouts connection
 
 This is a little bit of a hassle, but it is not uncommon for people to have some technical challenges connecting and being heard on the google hangouts call. Please coordinate with the host to test your connection **on the computer you're going to use for the call** in advance of the call.
+
+You'll receive a a google calendar invite in advance of the call with the specific hangouts link you'll need to join for the call. You can either try connecting through that link with your host, or simply creating your own hangout and test with a friend or family member to ensure your setup works.
 
 Smart phones with the hangouts app installed are a good backup so we recommend having one with you when you join the call if you can.
 
