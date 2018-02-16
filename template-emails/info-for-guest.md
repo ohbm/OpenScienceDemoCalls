@@ -23,7 +23,7 @@ I'm also about to send you a google calendar invitation which has a link to the 
 There are two important actions on your end:
 
 1. Fill in this form - https://goo.gl/forms/3foIuNP9G7kmCW193 - so we can turn around a blog post very quickly after the call.
-2. Find a time with me to check your google hangouts connection.
+2. Find a time to check your google hangouts connection.
 
 I think the best running order is:
 
