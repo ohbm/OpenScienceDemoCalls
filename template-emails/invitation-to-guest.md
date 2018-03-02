@@ -14,7 +14,7 @@
 
 Hi **[GUEST NAME]**,
 
-We on the Open Science SIG committee would like to start Open Science Demo Calls where I chat for about 10 minutes each with members of our community who are doing some cool open science.
+We on the OHBM Open Science SIG committee have started to run Open Science Demo Calls where I chat for about 10 minutes each with members of our community who are doing some cool open science. Here's a blog post highlighting one of the previous calls: https://www.ohbmbrainmappingblog.com/blog/february-ohbm-open-science-demo-call.
 
 **[SUGGESTOR NAME]** suggested that you could talk about **[PROJECT NAME]** and I was wondering if you (and any of your team mates) would like to be featured on our call on **[DATE OF CALL]** at 7pm GMT?
 
@@ -32,7 +32,7 @@ Kirstie
 
 Hi Tim,
 
-We on the Open Science SIG committee would like to start Open Science Demo Calls where I chat for about 10 minutes each with members of our community who are doing some cool open science.
+We on the OHBM Open Science SIG committee have started to run Open Science Demo Calls where I chat for about 10 minutes each with members of our community who are doing some cool open science. Here's a blog post highlighting one of the previous calls: https://www.ohbmbrainmappingblog.com/blog/february-ohbm-open-science-demo-call.
 
 I recently reviewed Porcupine and I really liked it, so I was wondering if you (and any of your co-authors) would like to be featured on our first call on 1st February at 7pm GMT?
 
