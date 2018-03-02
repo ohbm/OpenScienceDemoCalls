@@ -12,15 +12,23 @@ Demo calls are a great chance to find out about tools and initiatives (both old 
 
 Demo calls happen (usually) on the last Thursday of the month at 7pm GMT.
 
-* First call: Thursday 1st February 2018, 7pm GMT.
-  * [Watch again on YouTube](https://www.youtube.com/watch?v=Qo-bFqMUbLo) and check out our supplementary [video with Guiomar](https://www.youtube.com/watch?v=VyTPIuzqdU4) which we recorded after some technical challenges during the main call.
-* Second call: [Thursday 22nd February 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180222T190000&p1=tz_gmt).
+* March call: [Thursday 22nd March 2018, 7pm GMT](https://www.youtube.com/watch?v=vrX5IZH3aIM)
+* April call: Thursday 26th April 2018, 7pm GMT
 
 ### Where can I find them?
 
 The calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ).
 
-All recordings will be archived on the channel for easy access.
+### Can I catch up with previous calls?
+
+Yes. The recordings are archived on our [YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) and you can also find some useful links at the call reports on the OHBM blog.
+
+* February call:
+  * Blog post: https://www.ohbmbrainmappingblog.com/blog/february-ohbm-open-science-demo-call
+  * [Watch again on YouTube](https://youtu.be/2xcL5rkCsrU)
+* January call:
+  * Blog post: https://www.ohbmbrainmappingblog.com/blog/introducing-the-ohbm-open-science-demo-calls
+  * [Watch again on YouTube](https://www.youtube.com/watch?v=Qo-bFqMUbLo) and check out our supplementary [video with Guiomar](https://www.youtube.com/watch?v=VyTPIuzqdU4) which we recorded after some technical challenges during the main call.
 
 ### How do I stay in touch?
 
