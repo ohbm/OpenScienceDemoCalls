@@ -12,7 +12,7 @@ Demo calls are a great chance to find out about tools and initiatives (both old 
 
 Demo calls happen (usually) on the last Thursday of the month at 7pm GMT.
 
-Our next call will be [live on youtube](https://www.youtube.com/watch?v=vrX5IZH3aIM) on [Thursday 22nd March 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180322T190000&p1=tz_gmt)!
+Our next call will be [live on youtube](https://www.youtube.com/watch?v=vr6dxt0l3-U) on [Thursday 22nd March 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180322T190000&p1=tz_gmt)!
 
 This month, we'll be hearing from Eleftherios Garyfallidis about [DIPY](http://nipy.org/dipy/), Tim van Mourik about [Porcupine](https://timvanmourik.github.io/Porcupine/), and Malin Sandström about [INCF](https://www.incf.org/) and its role as a mentor organization for [Google Summer of Code](https://summerofcode.withgoogle.com/).
 
