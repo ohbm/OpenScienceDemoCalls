@@ -14,7 +14,7 @@ Demo calls happen (usually) on the last Thursday of the month at 7pm GMT.
 
 Our next call will be live on youtube on [Thursday 26nd April 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180428T180000&p1=136)!
 
-This month we'll be speaking to Dora Hermes about the [iEEG BIDS extension](https://docs.google.com/document/d/1qMUkoaXzRMlJuOcfTYNr3fTsrl4SewWjffjMD5Ew6GY/edit?usp=sharing), Christine Guo and Tammy Vanderwal about their [open science naturalistic viewing competition](https://breakspear.github.io/moviesinthemagnet/), and Ariel Roekem about [SciPy](https://www.scipy.org/). 
+This month we'll be speaking to Dora Hermes about the [iEEG BIDS extension](https://docs.google.com/document/d/1qMUkoaXzRMlJuOcfTYNr3fTsrl4SewWjffjMD5Ew6GY/edit?usp=sharing), Christine Guo and Tammy Vanderwal about their [open science naturalistic viewing competition](https://breakspear.github.io/moviesinthemagnet/), and Ariel Rokem about [SciPy](https://www.scipy.org/). 
 
 ### Where can I find them?
 
