@@ -14,14 +14,17 @@ Demo calls happen (usually) on the last Thursday of the month at 7pm GMT.
 
 Our next call will be live on youtube on [Thursday 26nd April 2018, 7pm GMT](https://www.timeanddate.com/worldclock/converter.html?iso=20180428T180000&p1=136)!
 
+This month we'll be speaking to Dora Hermes about the [iEEG BIDS extension](https://docs.google.com/document/d/1qMUkoaXzRMlJuOcfTYNr3fTsrl4SewWjffjMD5Ew6GY/edit?usp=sharing), Christine Guo and Tammy Vanderwal about their [open science naturalistic viewing competition](https://breakspear.github.io/moviesinthemagnet/), and Ariel Rokem about [SciPy](https://www.scipy.org/). 
+
 ### Where can I find them?
 
 The calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ).
 
 ### Can I catch up with previous calls?
 
-Yes! The recordings are archived on our [YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) and you can also find some useful links at the call reports on the OHBM blog.
+Yes! The recordings are archived on our [YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) and you can also find some useful links at the [call recaps on the OHBM blog](https://www.ohbmbrainmappingblog.com/apps/search?q=%22demo+call%22).
 
+Check out the recaps for our most recent calls:
 * [March call recap](https://www.ohbmbrainmappingblog.com/blog/march-ohbm-open-science-demo-call)
 * [February call recap](https://www.ohbmbrainmappingblog.com/blog/february-ohbm-open-science-demo-call)
 
