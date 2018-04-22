@@ -10,7 +10,7 @@
 
 ### Template email
 
-*SUBJECT: OHBM Open Science Demo Call | **[DATE OF CALL]** | 6:55pm GMT*
+*SUBJECT: OHBM Open Science Demo Call | **[DATE OF CALL]** | 6:50pm GMT*
 
 Hi **[GUEST 1]**, **[GUEST 2]** and **[GUEST 3]**,
 
@@ -35,7 +35,8 @@ but I really don't mind if you have strong opinions about wanting to mix that up
 
 I'll introduce you and the concept of the call first, and I'll close out the call.
 
-Please take a look at the guide and let me know if you have any questions!
+Please take a look at the guide and let me know if you have any questions. And most importantly, please **let me know that you've received this email and you're all set for the call** because I always get a little nervous that they aren't going through! :smiley:
 
 Thanks again, and I look forward to seeing you on Thursday!
+
 Kx
