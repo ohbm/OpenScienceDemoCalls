@@ -38,4 +38,5 @@ I'll introduce you and the concept of the call first, and I'll close out the cal
 Please take a look at the guide and let me know if you have any questions. And most importantly, please **let me know that you've received this email and you're all set for the call** because I always get a little nervous that they aren't going through! :smiley:
 
 Thanks again, and I look forward to seeing you on Thursday!
+
 Kx
