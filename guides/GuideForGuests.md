@@ -10,7 +10,7 @@ This guide should talk you through what you need to know to prepare for the call
 
 ---
 
-***tl;dr: [test your google hangout connection](#test-your-google-hangouts-connection) in advance, complete [this google form](https://goo.gl/forms/3foIuNP9G7kmCW193) in advance, join the google hangout 5 mins early & have fun*** :sparkles:
+***tl;dr: [test your google hangout connection](#test-your-google-hangouts-connection) in advance, complete [this google form](https://goo.gl/forms/3foIuNP9G7kmCW193) in advance, join the google hangout 10 mins early & have fun*** :sparkles:
 
 ---
 
@@ -69,7 +69,7 @@ The structure of the blog will be three introductory sentences, the video, and t
 
 ### During the call
 
-***Please join the call 5 minutes before the offical start time so we're all ready to go!***
+***Please join the call 10 minutes before the offical start time so we're all ready to go!***
 
 The call will start with a brief welcome, and then we'll jump into the conversations. These should last between 8 and 10 minutes. Your host will contact you in advance to discuss the running order.
 
@@ -89,9 +89,10 @@ The additional guests can either be in the same place as you (and therefore conn
 
 Google Hangouts does not allow more than 10 people to join a call at one time, which is why our audience will mostly be watching on YouTube and asking questions via live chat. You'll be there the whole time, so ***please join in to ask questions of your fellow guests***. You do not need to sit silently and watch Kirstie chat with each guest in turn! You're very welcome to ask your own questions :smiley:
 
-Although Kirstie will try to monitor the live chat, it would also be very helpful if the guests who are not currently being interviewed could monitor the chat and verbalise those questions on the hangout. You don't have to, but multi-tasking is sometimes a tough job and any assistance will be greatly appreciated.
-
-Note that it is not your job to moderate the chat. The host of the call is responsible for finding a buddy who will monitor the live chat and hide any comments that violate our code of conduct.
+Note that it is not your job to moderate the chat.
+The host of the call is responsible for finding a buddy who will monitor the live chat and hide any comments that violate our code of conduct.
+The moderator will also be copying questions over to the Hangouts chat to make it easier for you to answer them.
+Feel free to verbalize these in addition to your own questions!
 
 ### After the call
 
