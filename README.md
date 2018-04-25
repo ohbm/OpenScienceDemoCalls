@@ -10,7 +10,7 @@ Demo calls are a great chance to find out about tools and initiatives (both old 
 
 ### When do they take place?
 
-Demo calls happen (usually) on the last Thursday of the month at 7pm GMT.
+Demo calls happen (usually) on the last Thursday of the month at 7pm UK time.
 
 Our next call will be live on youtube on [Thursday 26nd April 2018, 7pm BST](https://www.timeanddate.com/worldclock/converter.html?iso=20180428T180000&p1=136)!
 
