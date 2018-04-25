@@ -16,7 +16,7 @@ This guide should talk you through what you need to know to prepare for the call
 
 ### What to expect
 
-The Open Science demo call will start at **7pm GMT** and finish at 7:30pm GMT. We're aiming for a short but sweet taster of your project and aim to "always leave them wanting more" :wink:
+The Open Science demo call will start at **7pm UK Time** and finish at 7:30pm UK Time. We're aiming for a short but sweet taster of your project and aim to "always leave them wanting more" :wink:
 
 There will only be four of us on the call: your host [Kirstie Whitaker](https://github.com/KirstieJane), two other guests, and yourself. We'll connect via [Google Hangouts](https://hangouts.google.com/) so please make sure you have a google account and that you're using a browser compatible with hangouts (at time of writing, [Firefox does not support Google Hangouts](https://gsuiteupdates.googleblog.com/2017/02/google-hangouts-temporary-issues-with-firefox.html?m=1) but Chrome (unsurprisingly) does).
 
