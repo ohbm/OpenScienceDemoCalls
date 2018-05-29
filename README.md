@@ -14,7 +14,7 @@ Demo calls happen (usually) on the last Thursday of the month at 7pm UK time.
 
 Our next call will be live on youtube on [Thursday 31st May 2018, 7pm BST](https://www.timeanddate.com/worldclock/converter.html?iso=20180531T180000&p1=136)!
 
-This month we'll be discussing events specific to this year's OHBM annual meeting, and getting excited for Singapore! We'll be hearing from Anisha Keshevan and Greg Kiar about the [OHBM hackathon](https://ohbm.github.io/hackathon2018/), Aki Nikolaidis, Ayaka Ando and Michele Veldsman about the [Student and Postdoc SIG mentorship lunch](https://www.eventbrite.com/e/lunch-with-mentors-tickets-43692724114), and Nils Muhlert about the Communications Committee's [coverage of open science](https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective) at this year's annual meeting . 
+This month we'll be discussing events specific to this year's OHBM annual meeting, and getting excited for Singapore! We'll be hearing from Anisha Keshevan and Greg Kiar about the [OHBM hackathon](https://ohbm.github.io/hackathon2018/), Aki Nikolaidis, Ayaka Ando and Michele Veldsman about the [Student and Postdoc SIG](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3449) initiatives (including the [mentorship lunch](https://www.eventbrite.com/e/lunch-with-mentors-tickets-43692724114)), and Nils Muhlert about the Communications Committee's [coverage of open science](https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective) at this year's annual meeting . 
 
 ### Where can I find them?
 
