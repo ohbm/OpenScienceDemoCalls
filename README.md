@@ -12,9 +12,9 @@ Demo calls are a great chance to find out about tools and initiatives (both old 
 
 Demo calls happen (usually) on the last Thursday of the month at 7pm UK time.
 
-Our next call will be live on youtube on [Thursday 26nd April 2018, 7pm BST](https://www.timeanddate.com/worldclock/converter.html?iso=20180428T180000&p1=136)!
+Our next call will be live on youtube on [Thursday 31st May 2018, 7pm BST](https://www.timeanddate.com/worldclock/converter.html?iso=20180531T180000&p1=136)!
 
-This month we'll be speaking to Dora Hermes about the [iEEG BIDS extension](https://docs.google.com/document/d/1qMUkoaXzRMlJuOcfTYNr3fTsrl4SewWjffjMD5Ew6GY/edit?usp=sharing), Christine Guo and Tammy Vanderwal about their [open science naturalistic viewing competition](https://breakspear.github.io/moviesinthemagnet/), and Ariel Rokem about [SciPy](https://www.scipy.org/). 
+This month we'll be discussing events specific to this year's OHBM annual meeting, and getting excited for Singapore! We'll be hearing from Anisha Keshevan and Greg Kiar about the [OHBM hackathon](https://ohbm.github.io/hackathon2018/), Aki Nikolaidis, Ayaka Ando and Michele Veldsman about the [Student and Postdoc SIG mentorship lunch](https://www.eventbrite.com/e/lunch-with-mentors-tickets-43692724114), and Nils Muhlert about the Communications Committee's [coverage of open science](https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective) at this year's annual meeting . 
 
 ### Where can I find them?
 
@@ -25,8 +25,8 @@ The calls will be livestreamed on YouTube from the [OHBM OpenScience Channel](ht
 Yes! The recordings are archived on our [YouTube channel](https://www.youtube.com/channel/UChvSitFvqGDeA1y7MJs4CGQ) and you can also find some useful links at the [call recaps on the OHBM blog](https://www.ohbmbrainmappingblog.com/apps/search?q=%22demo+call%22).
 
 Check out the recaps for our most recent calls:
+* [April call recap](https://www.ohbmbrainmappingblog.com/blog/april-ohbm-open-science-demo-call)
 * [March call recap](https://www.ohbmbrainmappingblog.com/blog/march-ohbm-open-science-demo-call)
-* [February call recap](https://www.ohbmbrainmappingblog.com/blog/february-ohbm-open-science-demo-call)
 
 ### How do I stay in touch?
 
